@@ -1,0 +1,8 @@
+# 写出你最常见到的5个runtime exception
+
+ClassCastException
+IllegalArgumentException
+NullPointerException
+IndexOutOfBoundsException
+ArrayIndexOutOfBoundsException
+
