@@ -2,15 +2,15 @@
 
 Sun 公司在 1995 创建
 
-Object Oriented 面向目标的
+Java 的一些特点?
 
-Platform Independent 平台独立
+* Object Oriented 面向目标的
+* Platform Independent 平台独立
+* Interpreted 解释性语言
+* Multi-threaded 多线程
 
-Interpreted 说明性语言
-
-Multi-threaded 多线程的
-
-
-Java 最重要的特点是**平台独立**
+但是 Java 最重要的特点是**平台独立**
 
 平台独立意味着我们可以在一个系统编译它然后在另外一个系统使用它
+
+PS : 有一些中文的博客会说 java 也是编译性语言 因为国内博客都是你抄我 我抄你 所以你懂的 当然最好就是给出编译混合解释性这个说法 然后给出自己的理解 我自己在国外面试的时候也问了几个面试官关于这个问题 都说解释性语言是最准确的.
