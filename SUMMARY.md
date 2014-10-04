@@ -23,7 +23,7 @@
        * [this 程序题](java/this_question.md)
        * [抽象 abstract](java/what_is_abstract.md)
        * [abstract 相关问题](java/abstract_question.md)
-       * [How are this() and super() used with constructors?](java/how_are_this_and_super_used_with_constructors.md)
+       * [this() 和 super() 在构造体里怎么用?](java/how_are_this_and_super_used_with_constructors.md)
    * [Static 关键字](java/static.md)
        * [一个static方法内部调用非static方法?](java/static_wya.md)
    * [Singleton 单例模式](java/what_is_singleton_class.md)

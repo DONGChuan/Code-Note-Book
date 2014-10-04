@@ -1,3 +1,5 @@
-# How are this() and super() used with constructors?
+# this() 和 super() 在构造体里怎么用?
 
-This() is used to invoke a constructor of the same class. super() is used to invoke a superclass constructor.
+this() 在同一个类的构造体被调用. this("toto","tata",1)相当于调用对应参数的构造体.
+
+super() 用来调用父类构造体.
