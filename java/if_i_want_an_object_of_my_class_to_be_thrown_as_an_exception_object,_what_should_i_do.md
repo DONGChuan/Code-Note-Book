@@ -1,7 +1,7 @@
-# If I want an object of my class to be thrown as an exception object, what should I do?
+# 如果想要一个对象作为一个异常对象被抛出, 应该怎么做. (就是自己 DIY 一个异常啦)
 
-The class should extend from Exception class. Or you can extend your class from some more precise exception type also.
+继承 Exception 类. 或者继成功 Exception 类里面的子类, 这样可以更加具体的表明哪一类异常.
 
-# If my class already extends from some other class what should I do if I want an instance of my class to be thrown as an exception object?
+# 如果我的类已经继承了其他的类,那应该怎么做?
 
-One can not do anytihng in this scenarion. Because Java does not allow multiple inheritance and does not provide any exception interface as well.
+那就没办法咯. Java 不支持多继承, 目前版本的 JDK 没有相关的接口.
