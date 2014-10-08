@@ -1,4 +1,4 @@
-# serialization
+# 序列化 serialization
 
 Serialization is a mechanism by which you can save the state of an object by converting it to a byte stream.
 

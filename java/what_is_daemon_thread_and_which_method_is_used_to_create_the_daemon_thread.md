@@ -1,3 +1,21 @@
-# What is daemon thread and which method is used to create the daemon thread?
+# 守护线程 daemon thread?
 
-Daemon thread is a low priority thread which runs intermittently in the back ground doing the garbage collection operation for the java runtime system. 
+守护线程,
+是指在程序运行的时候在后台提供一种通用服务的线程,
+比如垃圾回收线程就是一个很称职的守护者,
+并且这种线程并不属于程序中不可或缺的部分.
+因此,
+当所有的非守护线程结束时,
+程序也就终止了,
+同时会杀死进程中的所有守护线程.
+反过来说,
+只要任何非守护线程还在运行,
+程序就不会终止.
+
+用户线程和守护线程两者几乎没有区别,
+唯一的不同之处就在于虚拟机的离开:
+如果用户线程已经全部退出运行了,
+只剩下守护线程存在了,
+虚拟机也就退出了.
+
+将线程转换为守护线程可以通过调用Thread对象的setDaemon(true)方法来实现.

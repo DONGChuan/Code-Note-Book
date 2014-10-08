@@ -9,14 +9,8 @@
 ArrayList与Vector的区别
 
 * Vector是线程安全的,
-也就是说是它的方法之间是线程同步的,
-而ArrayList是线程序不安全的,
-它的方法之间是线程不同步的.
-如果只有一个线程会访问到集合,那最好是使用ArrayList,
-因为它不考虑线程安全,
-效率会高些;如果有多个线程会访问到集合,
-那最好是使用Vector,
-因为不需要我们自己再去考虑和编写线程安全的代码.
+也就是线程同步的,
+而ArrayList是线程序不安全的.
 对于Vector&ArrayList,
 Hashtable&HashMap,
 要记住线程安全的问题,
@@ -34,5 +28,5 @@ Vector默认增长为原来两倍,而ArrayList的增长策略在文档中没有�
 Vector还可以设置增长的空间大小,
 而ArrayList没有提供设置增长空间的方法.
 
-总结：即Vector增长原来的一倍,ArrayList增加原来的0.5倍. Vector 线程安全, ArrayList 不是.
+**总结：即Vector增长原来的一倍,ArrayList增加原来的0.5倍. Vector 线程安全, ArrayList 不是.**
 

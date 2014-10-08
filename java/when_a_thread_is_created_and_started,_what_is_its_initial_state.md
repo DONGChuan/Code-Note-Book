@@ -1,6 +1,3 @@
-# When a thread is created and started, what is its initial state?
+# 一个线程的初始状态是什么?
 
-A thread is in “Ready” state after it has been created and started.
-This state signifies that the thread is ready for execution.
-From here,
-it can be in the running state.
+一个线程被创建和开始之后是 “Ready” 状态.

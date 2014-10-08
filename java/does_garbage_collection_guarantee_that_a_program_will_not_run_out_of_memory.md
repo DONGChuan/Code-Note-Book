@@ -1,4 +1,4 @@
-# Does garbage collection guarantee that a program will not run out of memory?
+# GC 就一定能保证内存不溢出吗?
 
 Non.
 程序员可能创建了一个对象,
