@@ -102,7 +102,7 @@
            * [JSP Directives?](j2ee/jsp_directives.md)
                * [Types of directive tags?](j2ee/types_of_directive_tags.md)
                    * [<jsp:include page = ...> and <%@ include file = ...>?](j2ee/jsp__include_page_=___and____include_file_=.md)
-           * [Types of comments](j2ee/types_of_comments.md)
+           * [注释的类型](j2ee/types_of_comments.md)
        * [JSP Actions?](j2ee/what_do_you_understand_by_jsp_actions.md)
            * [<jsp:forward page= ...> 和 response.sendRedirect(url)? ](j2ee/jspforward_page=___responsesendredirecturl.md)
            * [Scope for the < jsp : useBean > tag? -](j2ee/scope_for_the__jsp__usebean__tag_-.md)
