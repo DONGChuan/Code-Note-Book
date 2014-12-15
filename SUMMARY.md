@@ -107,7 +107,7 @@
            * [<jsp:forward page= ...> 和 response.sendRedirect(url)? ](j2ee/jspforward_page=___responsesendredirecturl.md)
            * [Scope for the < jsp : useBean > tag? -](j2ee/scope_for_the__jsp__usebean__tag_-.md)
        * [JSP translation?](j2ee/jsp_translation.md)
-   * [Ear, Jar and War files?](j2ee/ear,_jar_and_war_files.md)
+   * [Ear, Jar 和 War 文件?](j2ee/ear,_jar_and_war_files.md)
    * [URI 和 URL?](j2ee/uri_url.md)
    * [DAO](j2ee/dao.md)
 * [Spring](spring/README.md)
