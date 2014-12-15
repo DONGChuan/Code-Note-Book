@@ -140,7 +140,6 @@
    * [How do add a bean in spring application?](spring/how_do_add_a_bean_in_spring_application.md)
    * [What are inner beans in Spring?](spring/what_are_inner_beans_in_spring)
    * [How can you inject Java Collection in Spring?](spring/how_can_you_inject_java_collection_in_spring)
-   * [What are different Modes of auto wiring?](spring/what_are_different_modes_of_auto_wiring)
    * [What are the limitations with autowiring?](spring/what_are_the_limitations_with_autowiring)
    * [Can you inject null and empty string values in Spring?](spring/can_you_inject_null_and_empty_string_values_in_spring.md)
    * [@Autowired @Inject @Resource](spring/autowired_inject_resource.md)
