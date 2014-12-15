@@ -1,5 +1,5 @@
 
-# JSP Lifecycle?
+# JSP 的生命周期?
 
 1. Compilation
 2. Initialization

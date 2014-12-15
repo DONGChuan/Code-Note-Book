@@ -4,7 +4,7 @@
 
 Wildcards are special characters that allow matching string without having exact match.
 
-* SQL 通配符必须与 LIKE 运算符一起使用
+SQL 通配符必须与 LIKE 运算符一起使用
 
 %	替代一个或多个字符
 

@@ -1,4 +1,4 @@
-# What happens to the static fields of a class during serialization?
+# 序列化时 static 域的处理?
 
 There are three exceptions in which serialization doesnot necessarily read and write to the stream. These are
 

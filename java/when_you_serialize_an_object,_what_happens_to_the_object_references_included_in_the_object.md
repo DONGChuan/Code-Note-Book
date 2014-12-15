@@ -1,3 +1,3 @@
-# When you serialize an object, what happens to the object references included in the object?
+# 序列化时引用的处理?
 
-When an object is serialized, all the included objects are also serialized alongwith the original obect
+When an object is serialized, all the included objects are also serialized alongwith the original object

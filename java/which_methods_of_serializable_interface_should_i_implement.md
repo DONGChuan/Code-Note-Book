@@ -1,3 +1,4 @@
-# Which methods of Serializable interface should I implement?
+# 必须实现 Serializable 接口的哪个方法?
 
-The serializable interface is an empty interface, it does not contain any methods. So we do not implement any methods.
+Serializable 接口是一个空接口.
+所以我们不实现它的任何方法.

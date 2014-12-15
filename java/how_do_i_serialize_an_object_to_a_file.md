@@ -1,3 +1,3 @@
-# How do I serialize an object to a file?
+# 如何序列化一个对象到一个文件?
 
-The class whose instances are to be serialized should implement an interface Serializable. Then you pass the instance to the ObjectOutputStream which is connected to a fileoutputstream. This will save the object to a file.
+要被序列化的实例所对应的类必须实现 Serializable 接口. 然后你可以把实例传递给 ObjectOutputStream, 同时 ObjectOutputStream 也必须连接至 fileoutputstream. 这样就会把一个对象储存到一个文件里.
