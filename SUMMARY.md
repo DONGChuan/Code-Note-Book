@@ -49,7 +49,7 @@
    * [final, finally, finalize的区别](java/final,_finally,_finalize.md)
    * [Programme](java/programme.md)
        * [输出问题1](java/article11.md)
-   * [sleep() and wait()](java/sleep_and_wait.md)
+   * [sleep() 和 wait() 的区别](java/sleep_and_wait.md)
    * [Gabage Collection](java/gabage_collection.md)
        * [heap 和 stack](java/heap_stack.md)
        * [GC 就一定能保证内存不溢出吗?](java/does_garbage_collection_guarantee_that_a_program_will_not_run_out_of_memory.md)
