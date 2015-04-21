@@ -25,5 +25,5 @@
 4. 如果是想学习 Markdown 纯手工的同学可以参考这里学习 [地址1](https://help.github.com/articles/markdown-basics) [地址2](https://help.github.com/articles/github-flavored-markdown)
 5. 修改完 git commit 到自己的仓库
 6. 给主仓库的 master 分支提交 pull request
-7. 然后等待其他人的审核
+7. 然后我会合并你到修改到主仓库并把你加入到贡献者名单里
 8 审核修改完成之后你翻译的部分就会被合并到书里
