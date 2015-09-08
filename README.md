@@ -10,20 +10,14 @@
 
 [Github托管地址](https://github.com/DONGChuan/Java_Interview_question)
 
-如果不知道如何贡献, 可以联系我的邮箱 dongchuan55@gmail.com, 也欢迎指出错误
-
 ----
-### 如何参与
+### 如何贡献
 
 任何问题都欢迎直接联系我 dongchuan55@gmail.com QQ 526402328
 
-[戳这里也有详细的介绍](https://gist.github.com/suziewong/4378619)
+[戳这里有详细的介绍](https://github.com/billryan/algorithm-exercise/blob/master/contributing_zh-cn.md) 感谢 Bill 同学的详细说明
 
-1. fork 主仓库到自己的仓库里
-2. 然后 git clone 到自己的电脑上
-3. 推荐大家使用 Gitbook 专属的编辑器 [地址](https://github.com/GitbookIO/editor) .**请注意, 每一页标题的创建都必须是用英文, 再通过 rename 改成中文**.
-4. 如果是想学习 Markdown 纯手工的同学可以参考这里学习 [地址1](https://help.github.com/articles/markdown-basics) [地址2](https://help.github.com/articles/github-flavored-markdown)
-5. 修改完 git commit 到自己的仓库
-6. 给主仓库的 master 分支提交 pull request
-7. 然后我会合并你到修改到主仓库并把你加入到贡献者名单里
-8 审核修改完成之后你翻译的部分就会被合并到书里
+----
+### 许可证
+
+该项目采用 **知识共享署名-相同方式共享 4.0 国际许可协议** 进行许. 传播此文档时请注意遵循以上许可协议. 关于本许可证的更多详情可参考 http://creativecommons.org/licenses/by-sa/4.0/
