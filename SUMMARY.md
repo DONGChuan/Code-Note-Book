@@ -82,6 +82,7 @@
        * [序列化时引用的处理?](java/when_you_serialize_an_object,_what_happens_to_the_object_references_included_in_the_object.md)
        * [序列化时要注意什么?](java/what_one_should_take_care_of_while_serializing_the_object.md)
        * [序列化时 static 域的处理?](java/what_happens_to_the_static_fields_of_a_class_during_serialization.md)
+   * [Initialization and Cleanup](java/initialization_and_cleanup.md)
 * [J2EE](j2ee/README.md)
    * [什么是 J2EE?](j2ee/what_is_j2ee.md)
    * [J2EE 应用的四个部分?](j2ee/what_are_the_four_components_of_j2ee_application.md)
