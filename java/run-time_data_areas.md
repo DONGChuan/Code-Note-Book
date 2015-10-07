@@ -37,3 +37,9 @@ P.S. 这块内存无`OutOfMemoryError`
 ## 直接内存
 
 这一部分并不是虚拟机运行时的数据区域，用于 Native 函数分配堆外内存，提高性能用（不必在操作系统堆和 Java 堆复制数据）。
+
+## Reference
+
+- 《深入理解 Java 虚拟机》
+- [Java 内存区域详解 - SegmentFault](http://segmentfault.com/a/1190000002931555)
+- [Chapter 2. The Structure of the Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html)
