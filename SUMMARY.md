@@ -84,6 +84,7 @@
        * [序列化时 static 域的处理?](java/what_happens_to_the_static_fields_of_a_class_during_serialization.md)
    * [Initialization and Cleanup](java/initialization_and_cleanup.md)
    * [Java Data Types](java/java_data_types.md)
+   * [Run-Time Data Areas](java/run-time_data_areas.md)
 * [J2EE](j2ee/README.md)
    * [什么是 J2EE?](j2ee/what_is_j2ee.md)
    * [J2EE 应用的四个部分?](j2ee/what_are_the_four_components_of_j2ee_application.md)
