@@ -17,3 +17,9 @@
 当声明一个对象时，
 并不产生static变量的拷贝，
 而是该类所有的实例变量共用同一个static变量.
+
+对于静态类，只能用于嵌套类内部类中。
+
+## Reference
+
+- [Static class in Java - GeeksforGeeks](http://www.geeksforgeeks.org/static-class-in-java/)
