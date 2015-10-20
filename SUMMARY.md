@@ -157,7 +157,7 @@
 * [Linux](linux/README.md)
    * [查找文件](linux/find_file.md)
    * [列出文件列表](linux/list_file.md)
-* [SQL](sql/README)
+* [SQL](sql/README.md)
    * [设计一对一](sql/one_to_one.md)
    * [设计一对多](sql/one_to_multi.md)
    * [设计多对多](sql/multi_to_multi.md)
