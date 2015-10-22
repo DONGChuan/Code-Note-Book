@@ -19,8 +19,9 @@ public class Test{
     }
 }```
 
-
 输出是 true true true false true true
+
+记住 == 比较引用. equals 比较值. String 对象会创建一个字符串池 (a pool of string), 如果当前准备新创建的字符串对象的值在这个池子中已经存在，那么就不会生成新对象, 而是复用池中已有的字符串对象. 不过, 只有采用 Object s = “Hello” 方式 (而非用”new“关键字) 声明 String 对象的时候这个规则才会被应用.
 
 **题目二**
 
