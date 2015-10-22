@@ -6,7 +6,6 @@
        * [Java 为什么是高效的?](java/how_java_enabled_high_performance.md)
        * [列举出2个 IDE](java/ide.md)
        * [面向对象的特征有哪些方面](java/what_ate_object-oriented_features.md)
-       * [What is JVM?](什么是Java虚拟机？)
    * [JDK JRE JVM](java/what_is_the_difference_between_a_jdk_and_a_jvm.md)
    * [什么是对象 (Object)?](java/what_do_you_mean_by_object.md)
        * [一个类是由哪些变量构成的](java/what_kind_of_variables_a_class_can_consist_of.md)
