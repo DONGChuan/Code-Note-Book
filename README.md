@@ -6,7 +6,7 @@
 
 如果有确实帮助到大家 可以进我的源代码在右上角 star 一下下 :)
 
-[Gitbook地址](http://dongchuan.gitbooks.io/java-interview-questions/content/)
+[Gitbook地址](https://dongchuan.gitbooks.io/java-interview-question/content/)
 
 [Github托管地址](https://github.com/DONGChuan/Java_Interview_question)
 
