@@ -69,13 +69,13 @@ s2 == S4.intern() : true
 
 **题目六**
 
-    执行后，原始的String对象中的内容到底变了没有？
+    执行后，原始的 String 对象中的内容到底变了没有？
 
         String s = "Hello";
         s = s + " world!";
 
 没有.
-因为String被设计成不可变(immutable)类,
+因为 String 被设计成**不可变(immutable)类**,
 所以它的所有对象都是不可变对象.
 
 在这段代码中,
@@ -86,3 +86,16 @@ s原先指向一个String对象,
 内容为"Hello world!",
 原来那个对象还存在于内存之中,
 只是s这个引用变量不再指向它了.
+
+**题目七**
+
+   执行后，输出是什么? 共创建了几个字符串对象?
+
+       String s = " Hello ";
+       s += " World ";
+       s.trim( );
+       System.out.println(s);
+
+再次强调 String 是**不可变(immutable)类**.
+所以共创建了三个对象. 最后输出是 " Hello  World ".
+只有 s = s.trim() 之后才是 "Hello  World".
