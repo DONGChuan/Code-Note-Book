@@ -21,7 +21,7 @@
     EmployeeFactory.create(String firstName, String lastName){...}
     EmployeeFactory.create(Integer id, String lastName){...}
 
-覆写 这是动态捆绑 (dynamic binding) 是 runtime 多态
+覆写 动态捆绑 (dynamic binding) 是 runtime 多态
 
     public class Animal {
         public void makeNoise()
