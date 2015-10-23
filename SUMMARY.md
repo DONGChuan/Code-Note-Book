@@ -24,7 +24,7 @@
        * [abstract 相关问题](java/abstract_question.md)
        * [this() 和 super() 在构造体里怎么用?](java/how_are_this_and_super_used_with_constructors.md)
    * [Static 关键字](java/static.md)
-       * [一个static方法内部调用非static方法?](java/static_wya.md)
+       * [Static 相关问题](java/static_questions.md)
    * [Singleton 单例模式](java/what_is_singleton_class.md)
    * [hashcode 和 equal](java/hashcode__equal.md)
        * [== 和 equal 的区别](java/==_equal.md)
