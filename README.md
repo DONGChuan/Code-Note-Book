@@ -15,7 +15,7 @@
 
 任何问题都欢迎直接联系我 dongchuan55@gmail.com QQ 526402328
 
-[戳这里有详细的介绍](https://github.com/billryan/algorithm-exercise/blob/master/contributing_zh-cn.md) 感谢 Bill 同学的详细说明
+因为现在 gitbook 支持在线编辑功能, 类似于 office word. 所以想要贡献的同学可以直接联系我开权限！
 
 ----
 ### 许可证
