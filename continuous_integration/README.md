@@ -1,6 +1,6 @@
 # Continuous integration
 
-un ensemble de pratiques utilisées en génie logiciel consistant à vérifier à chaque modification de code source que le résultat des modifications ne produit pas de régression dans l'application développée.
+un ensemble de pratiques utilisées en génie logiciel consistent à vérifier à chaque modification de code source que le résultat des modifications ne produit pas de régression dans l'application développée.
 
 Pour appliquer cette technique, il faut d'abord que :
 
