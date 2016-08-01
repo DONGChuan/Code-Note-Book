@@ -24,7 +24,6 @@
             Abs a = new Abs();
             a.amethod();
         }
-    }
 
         public void amethod(){
             System.out.println("A method");
