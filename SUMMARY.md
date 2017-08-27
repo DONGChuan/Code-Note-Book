@@ -181,4 +181,3 @@
    * [What does the Class.forName("MyClass") do?](jdbc/what_does_the_classfornamemyclass_do.md)
    * [Connection Pooling ?](jdbc/connection_pooling.md)
    * [What are the steps in the JDBC connection?](jdbc/what_are_the_steps_in_the_jdbc_connection.md)
-

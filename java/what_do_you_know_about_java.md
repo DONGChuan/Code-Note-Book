@@ -4,7 +4,7 @@ Sun 公司在 1995 创建
 
 Java 的一些特点?
 
-* Object Oriented 面向目标的
+* Object Oriented 面向对象
 * Platform Independent 平台独立
 * Interpreted 解释性语言
 * Multi-threaded 多线程
